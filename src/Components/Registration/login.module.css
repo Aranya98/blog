@@ -1,0 +1,45 @@
+.main{
+      margin-top: 80px;
+      display: flex;
+      justify-content: center;
+}
+.registration_main{
+      width: auto;
+      max-width: 440px;
+      padding: 20px;
+}
+.centereddiv{
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+}
+.icons{
+      font-size: 35px;
+}
+.inputs{
+     
+      height: 50px;
+      padding: 5px;
+      margin-top: 10px;
+      width: auto;
+      min-width: 300px;
+      border-style: none;
+      border:1px solid;
+      border-radius: 5px;
+}
+
+.firstline{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+}
+
+.submitbtn{
+      border-style: none;
+      border: 1px solid;
+      border-radius: 5px;
+      background-color:aliceblue;
+      padding: 5px 10px;
+      font-weight: bold;
+      cursor: pointer;
+}

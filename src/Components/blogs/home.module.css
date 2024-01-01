@@ -1,0 +1,49 @@
+.main{
+      margin-top: 60px;
+      display: flex;
+      justify-content: center;
+}
+
+.noblogs{
+      margin-top: 200px;
+      display: flex;
+      justify-content: center;
+}
+
+.noblog_icon{
+      font-size: 80px;
+     width: 200px;
+     height: 200px;
+      border: 3px dashed;
+      border-radius: 10px;
+      /* padding: 10px 30px; */
+      cursor: pointer;
+}
+.noblog_icon:hover{
+      font-size: 80px;
+     width: 200px;
+     height: 200px;
+      border: 3px dashed;
+      border-radius: 10px;
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.noblog_label{
+      font-size: 50px;
+}
+.blogmain{
+      margin-top: 50px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.blogs{
+      width: 90%;
+      max-width: 600px;
+}
+
+.createbtn{
+      border-radius: 5px;
+      background: none;
+}
+

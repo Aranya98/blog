@@ -1,0 +1,38 @@
+.main{
+      margin-top: 100px;
+      display: flex;
+      justify-content: center;
+}
+.subdiv{
+      display: flex;
+      flex-direction: column;
+
+}
+
+.submain{
+      width: 90%;
+      max-width: 600px;
+      padding: 0 20px;
+}
+
+.description{
+      border-radius: 5px;
+}
+
+.fileupload{
+      width: 250px;
+}
+
+.title{
+      border: none;
+      border: 1px solid;
+      border-radius: 5px;
+      height: auto;
+      min-height: 50px;
+      font-size: 20px;
+      padding: 5px;
+}
+
+.submitbtn{
+      border-radius: 5px;
+}

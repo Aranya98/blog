@@ -1,0 +1,25 @@
+.main{
+      margin-top: 100px;
+      display: flex;
+      justify-content: center;
+}
+
+.viewblog{
+      width: 90%;
+      padding: 0 20px;
+      max-width: 1000px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+}
+
+.description{
+      border: 1px solid ;
+      border-radius: 5px;
+      padding: 5px;
+      height: auto;
+      min-height: 250px;
+      overflow: auto;
+      width: 100%;
+}
